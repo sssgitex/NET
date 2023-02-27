@@ -1,0 +1,14 @@
+/home/sss/VS/NET_HW#1/CMakeFiles/rebuild_cache.dir
+/home/sss/VS/NET_HW#1/CMakeFiles/edit_cache.dir
+/home/sss/VS/NET_HW#1/socket_wrapper/CMakeFiles/rebuild_cache.dir
+/home/sss/VS/NET_HW#1/socket_wrapper/CMakeFiles/edit_cache.dir
+/home/sss/VS/NET_HW#1/socket_wrapper/CMakeFiles/socket-wrapper.dir
+/home/sss/VS/NET_HW#1/l1/CMakeFiles/rebuild_cache.dir
+/home/sss/VS/NET_HW#1/l1/CMakeFiles/edit_cache.dir
+/home/sss/VS/NET_HW#1/l1/CMakeFiles/test_byte_order.dir
+/home/sss/VS/NET_HW#1/l1/resolve/CMakeFiles/rebuild_cache.dir
+/home/sss/VS/NET_HW#1/l1/resolve/CMakeFiles/edit_cache.dir
+/home/sss/VS/NET_HW#1/l1/resolve/CMakeFiles/dns-resolver.dir
+/home/sss/VS/NET_HW#1/l1/udp_server/CMakeFiles/rebuild_cache.dir
+/home/sss/VS/NET_HW#1/l1/udp_server/CMakeFiles/edit_cache.dir
+/home/sss/VS/NET_HW#1/l1/udp_server/CMakeFiles/udp-server.dir
